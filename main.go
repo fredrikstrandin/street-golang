@@ -91,7 +91,7 @@ func main() {
 				fmt.Printf("%s %s %s\n", city, street, no)
 			}
 		}
-
+ 
 	}
 
 	fmt.Println("Klar")
